@@ -1,0 +1,23 @@
+[
+  {
+    "ShapeType": "Circle",
+    "Area": 78.53981633974483,
+    "Perimeter": 31.41592653589793,
+    "Diameter": 10.0
+  },
+  {
+    "ShapeType": "Triangle",
+    "Area": 3.8971143170299736,
+    "Perimeter": 9.0
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Area": 12.0,
+    "Perimeter": 14.0
+  },
+  {
+    "ShapeType": "NAngle",
+    "Area": 15.484296605300704,
+    "Perimeter": 15.0
+  }
+]
